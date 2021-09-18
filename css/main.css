@@ -1,0 +1,44 @@
+.navbar-black {
+    background-color: black;
+}
+
+.test {
+    background-color: lightblue;
+}
+
+.btn {
+    background-color: orange;
+    width: 120px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 0px;
+    color: white;
+    font-size: larger;
+}
+
+.date {
+    background-color: lightgray;
+    border: 1px solid gray;
+    text-indent: 2rem;
+}
+
+hr {
+    width: 100%;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.hero{
+    color: white;
+    font-size: 5rem;
+}
